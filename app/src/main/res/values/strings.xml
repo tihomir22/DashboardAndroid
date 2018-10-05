@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="add">Añadir</string>
+    <string name="trash">Borrar</string>
+    <string name="selfie">Camera</string>
+    <string name="galleryselfie">Galeria</string>
+    <string name="memorycard">Guardar</string>
+    <string name="message">Mensaje</string>
+</resources>
